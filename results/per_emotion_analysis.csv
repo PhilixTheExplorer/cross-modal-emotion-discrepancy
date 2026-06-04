@@ -1,0 +1,9 @@
+Emotion,Count,True_Label,Accuracy,Precision,Recall,F1
+neutral,192,Non-discrepancy,0.40625,0.0,0.0,0.0
+calm,384,Non-discrepancy,0.921875,0.0,0.0,0.0
+happy,384,Discrepancy,0.9947916666666666,1.0,0.9947916666666666,0.9973890339425587
+sad,384,Discrepancy,0.828125,1.0,0.828125,0.905982905982906
+angry,384,Discrepancy,1.0,1.0,1.0,1.0
+fearful,384,Discrepancy,0.9947916666666666,1.0,0.9947916666666666,0.9973890339425587
+disgust,384,Discrepancy,1.0,1.0,1.0,1.0
+surprised,384,Discrepancy,1.0,1.0,1.0,1.0
